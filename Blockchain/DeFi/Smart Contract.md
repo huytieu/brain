@@ -1,5 +1,5 @@
 ---
-tags: blockchain, defi
+tags: blockchain, defi, smart-contract
 ---
 
 ## Design by contract

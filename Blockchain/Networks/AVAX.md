@@ -1,5 +1,5 @@
 ---
-tags: blockchain
+tags: blockchain, network
 ---
 
 Avalanche (AVAX) is an open source, smart contract platform that enables the deployment of highly decentralized applications, financial products, digital assets, and interoperable blockchains.

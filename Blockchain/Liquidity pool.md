@@ -1,5 +1,5 @@
 ---
-tags: blockchain, liquidity
+tags: blockchain, liquidity, smart-contract, dex
 author: Hien Le
 ---
 

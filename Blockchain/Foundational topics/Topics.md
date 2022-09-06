@@ -1,5 +1,5 @@
 ---
-tags: blockchain, foundational topics
+tags: blockchain, foundational-topics
 author: Pham Ngoc Thanh
 ---
 

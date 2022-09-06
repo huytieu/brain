@@ -1,5 +1,5 @@
 ---
-tags: blockchain, evm, zk-proof
+tags: blockchain, evm, zk-proof, foundational-topics
 author: Pham Ngoc Thanh
 date: 2022-09-06
 ---

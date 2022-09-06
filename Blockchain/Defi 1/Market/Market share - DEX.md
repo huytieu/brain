@@ -1,5 +1,5 @@
 ---
-tags: blockchain, defi
+tags: blockchain, defi, dex
 ---
 
 In 2020, the market started to develop In 2021, it grew and became the mainstream

@@ -1,5 +1,5 @@
 ---
-tags: blockchain
+tags: blockchain, protocol, dex
 ---
 
 ### Automated Market Maker

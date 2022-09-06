@@ -1,5 +1,5 @@
 ---
-tags: blockchain, NFT
+tags: blockchain, nft
 author: Tran Khac Vy
 ---
 
